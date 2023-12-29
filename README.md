@@ -1,10 +1,10 @@
-# bebidas-vue
+# Recetario de bebidas
 
-This template should help get you started developing with Vue 3 in Vite.
+Proyecto 100% creado con VueJS 3, Pinia, Vue-Router, API's
 
-## Recommended IDE Setup
+## Website
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://vue-drinks.vercel.app/
 
 ## Customize configuration
 
